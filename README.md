@@ -8,7 +8,7 @@ Backend developer skilled in Go and Node js, dedicated to building efficient and
 
 *   🌍  I'm based in Kasargod , Kerala
 *   ✉️  You can contact me at [vaishakhgk2006@gmail.com](mailto:vaishakhgk2006@gmail.com)
-*   🚀  I'm currently working on [Chat App Backend](http://asd)
+    <!-- *   🚀  I'm currently working on [Chat App Backend](http://asd) -->
 *   🧠  I'm learning Microservices , Docker , Kubernetes
 *   🤝  I'm open to collaborating on Backend projects in Go
 
