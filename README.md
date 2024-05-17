@@ -22,11 +22,11 @@ Backend developer skilled in Go and Node js, dedicated to building efficient and
                     </p>
     
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.vaishakhgk.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.vaishakhgk.com/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.vaishakhgk.com) [![Mastodon](https://img.shields.io/badge/mastodon-%237289DA.svg?&style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.vaishakhgk.com)
 
-
+## Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishakh-gk&show_icons=true&locale=en&layout=compact" alt="vaishakh-gk" /></p>
 
