@@ -1,4 +1,12 @@
-# Hi, I'm Vaishakh GK ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Vaishakh+G+K&fontAlign=50&fontAlignY=40&color=0:1a1b27,100:24283b&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h1 align="center">Hi, I'm Vaishakh G K<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Go+%2F+C+%2F+JS" />
+</p>
 
 > **Software Engineer** passionate about systems, infrastructure, and building software from the kernel to the cloud.
 
