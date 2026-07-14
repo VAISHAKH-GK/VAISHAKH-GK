@@ -1,118 +1,108 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vaishakh GK
-===================================================================================================================================
+# Hi, I'm Vaishakh GK ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-> Software Engineer passionate about systems, infrastructure, and building software from the kernel to the cloud.
+> **Software Engineer** passionate about systems, infrastructure, and building software from the kernel to the cloud.
 
-I enjoy designing software that spans from low-level systems to cloud infrastructure.
-My interests include backend engineering, distributed systems, Linux, cybersecurity, networking, and developer tooling.
+I enjoy designing software that spans from low-level systems to cloud infrastructure. My primary interests are backend engineering, system programming, distributed systems, Linux, cybersecurity, networking, and open source.
 
 I like understanding how things work under the hood and building software that's reliable, maintainable, and efficient.
 
 ---
 
-## Interests
+## 🚀 Areas of Interest
 
-- System Programming
-- Backend Engineering
-- Distributed Systems
-- Linux
-- Cyber Security
-- Open Source
-- Networking
-- Cloud Infrastructure
-- Performance Engineering
-- Developer Tools
+* Backend Engineering
+* System Programming
+* Distributed Systems
+* Linux
+* Cyber Security
+* Networking
+* Cloud Infrastructure
+* Open Source
+* Performance Engineering
+* Developer Tooling
+
 ---
 
-## Languages
+## 💻 Tech Stack
+
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,c,js,python,dart,java,bash,ts" />
+  <img src="https://skillicons.dev/icons?i=go,c,js,ts,python,bash,lua" />
 </p>
 
----
-
-## Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,flask" />
 </p>
 
-**Frameworks**
+**Frameworks & Libraries**
 
-* Fiber
-* Echo
-* Gin
-* Gorilla WebSocket
-* Express
-* Flask
-* HTMX
+`Fiber` • `Echo` • `Gin` • `Gorilla WebSocket` • `Express` • `Flask` • `HTMX`
 
----
-
-## Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,htmx,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" />
 </p>
 
-* React
-* Next.js
-* HTMX
-* GTK
+`React` • `Next.js` • `HTMX` • `GTK`
 
----
-
-## Databases
+### Databases & Messaging
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,scylladb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,rabbitmq" />
 </p>
 
-* MongoDB
-* PostgreSQL
-* MySQL / MariaDB
-* Microsoft SQL Server
-* Redis
-* ScyllaDB
+`PostgreSQL` • `MongoDB` • `MySQL / MariaDB` • `Microsoft SQL Server` • `ScyllaDB` • `Redis` • `RabbitMQ`
 
----
-
-## Infrastructure & DevOps
+### Infrastructure & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,aws,gcp,cloudflare,nginx,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,aws,gcp,cloudflare,nginx,vercel,postman" />
 </p>
 
+`Docker` • `Kubernetes` • `AWS` • `Google Cloud` • `Cloudflare` • `Render` • `Vercel` • `MongoDB Atlas` • `Git` • `Nginx`
 
 ---
 
-## Currently Exploring
+## 🌱 Currently Exploring
 
 * Distributed Systems
-* High Performance Networking
 * Operating Systems
+* High Performance Networking
 * Compiler & Runtime Internals
 * Security Engineering
+* Database Internals
 
 ---
 
-## Daily Driver
-
-```text
-OS          Arch Linux
-WM          Hyprland
-Editor      Emacs
-Shell       Fish
-Terminal    Foot
-```
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-    <img height="170" src="https://streak-stats.demolab.com?user=VAISHAKH-GK&theme=github-dark&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=VAISHAKH-GK&theme=github-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VAISHAKH-GK&theme=github-dark&hide_border=true" />
+</p>
 
+---
+
+## 🌐 Connect
+
+<p align="left">
+<a href="https://vaishakhgk.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://github.com/VAISHAKH-GK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vaishakh-gk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vaishakh@vaishakhgk.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+
+*"Build software that is simple, reliable, and scalable."*
+
+</div>
